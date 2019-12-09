@@ -19,7 +19,7 @@ All  the related graphs and tables (if any) used in the report can be found in t
 The summary report file and presentation slides can be found as following:
 * Refer to ```report.Rmd``` for the final summary report of our analysis.
 * Referto ```report.html``` for the knitted report file.
-* Refer to ```slies.pdf``` for the final presentation slides.
+* Refer to ```slides.pdf``` for the final presentation slides.
 
 ## Acknowledgement
 Prof. JOHN R GILLETT, UW-Madison  
