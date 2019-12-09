@@ -6,7 +6,7 @@ Our dataset is May 2015 Reddit Comments from Kaggle. The dataset’s size is 30G
 **link:** https://www.kaggle.com/reddit/reddit-comments-may-2015
 
 ## Codes
-All the codes are based on Python 3.6 and CHTC.  
+All the codes are based on Python 3.6.8 and CHTC.  
 * Refer to ```projectCHTC.tar```for all related codes. 
 * Run ```tar -xzf projectCHTC.tar``` to untar the file
 * Run ```./projectCHTC/submit.sh``` to perform the analysis.
@@ -20,8 +20,8 @@ The summary report file and presentation slides can be found as following:
 * Refer to ```slies.pdf``` for the final presentation slides.
 
 ## Acknowledgement
-Prof. JOHN R GILLETT, UW-Madison
-Bi Cheng Wu, UW-Madison
+Prof. JOHN R GILLETT, UW-Madison  
+Bi Cheng Wu, UW-Madison  
 STAT 605, UW-Madison
 
 ## Contact information
