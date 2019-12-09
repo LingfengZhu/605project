@@ -57,7 +57,7 @@ We can compute the value of this metrics for every subreddit in parallel using C
 | 5 | India |	20.83660602 |
 
 
-## Tendency analysis with python
+## Trend analysis with python
 
 With data from every day in May, we can also make some plots to roughly analysis daily heat of subreddit and users in different subreddit. We can do parallel jobs on every subreddit to make plots. Here we analysis the trend of daily comment amount and daily average user comments in each subreddit with plots as below:
 
@@ -76,11 +76,17 @@ We can dig further with these plots. Take the subreddit r/PS4 as example. Actual
 
 The launch date of these popular games all correspond to the peaks of both plots of Subreddit Trend, which means users are more activate when new game launched in r/PS4. From above we can also obtain the word cloud of this subreddit.
 
+
+
 ![](images/wordcloud_PS4.png){width=70%}
+
+
 
 From the word cloud, we can see that people mentions a lot about 'Witcher' and like to share their feeling about this game and other games. This month players mostly have a positive attitude towards new games this month.  
 
 The weakness of our project: we did not analyse all words and all subreddits. If someone is interested in a particular subreddit or word, he/she needs to analyse him/herself with our method.
+
+
 
 ## Conclusion
 
