@@ -84,15 +84,17 @@ The launch date of these popular games all correspond to the peaks of both plots
 
 From the word cloud, we can see that people mentions a lot about 'Witcher' and like to share their feeling about this game and other games. This month players mostly have a positive attitude towards new games this month.  
 
-The weakness of our project: we did not analyse all words and all subreddits. If someone is interested in a particular subreddit or word, he/she needs to analyse him/herself with our method.
+**The weakness of our project: we did not analyse all words and all subreddits. If someone is interested in a particular subreddit or word, he/she needs to analyse him/herself with our method.**
 
 
 
 ## Conclusion
+We found out active communities such as Random Acts Of Amazon, Pokemon Trades. We also plotted user activity trend and word activity trend. Based on our work, Reddit can:
 
-* Reddit can monitor active communities and users.
 
-* Reddit can relate comment-activity trend with big events such as game lunch and Black Friday together, then allocate sources more efficiently.
+* Monitor active communities and users.
 
-* Reddit can monitor the daily trend of a word appearance such as "witcher" to see what topics are popular.
+* Relate comment-activity trend with big events such as game lunch and Black Friday together, then allocate sources more efficiently.
+
+* Monitor the daily trend of a word appearance such as "witcher" to see what topics are popular.
 
