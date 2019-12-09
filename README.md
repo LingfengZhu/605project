@@ -29,5 +29,5 @@ STAT 605, UW-Madison
 Contact us if you are interested in our analysis or have any questions about our work:
 * Lingfeng Zhu  lzhu88@wisc.edu
 * Yijie Liu  liu854@wisc.edu
-* Qiaochu Yu  qyu65@wisc.edu
+* Kunning Wang  kwang389@wisc.edu
 * Yujie Zhang  zhang2329@wisc.edu
