@@ -84,7 +84,7 @@ The launch date of these popular games all correspond to the peaks of both plots
 
 From the word cloud, we can see that people mentions a lot about 'Witcher' and like to share their feeling about this game and other games. This month players mostly have a positive attitude towards new games this month.  
 
-**The weakness of our project: we did not analyse all words and all subreddits. If someone is interested in a particular subreddit or word, he/she needs to analyse him/herself with our method.**
+**The weakness of our project: We only did preliminary work. We roughly show hot topics in these subreddit and how the subreddit activity trend goes in May 2015. If someone is interested in a particular subreddit or topic, he/she needs to analyse him/herself with our method.**
 
 
 
