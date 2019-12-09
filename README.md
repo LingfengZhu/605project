@@ -1,7 +1,6 @@
 # STAT-605-Project: Reddit Review Analysis
 This repo contains the codes, report and slides for the project Reddit Review Analysis written by Lingfeng Zhu, Zhao Li, Yijie Liu and Kunning Wang for STAT-605. All codes are based on Python in CHTC.
-
-Run ```git clone https://github.com/LingfengZhu/605project.git```.
+* Run ```git clone https://github.com/LingfengZhu/605project.git``` to clone this repository.
 
 ## Dataset
 Our dataset is May 2015 Reddit Comments from Kaggle. The dataset’s size is 30GB. It contains 1.7 billion comments from Reddit in May 2015 and related information such as auther, subreddit, etc.  
@@ -10,7 +9,7 @@ Our dataset is May 2015 Reddit Comments from Kaggle. The dataset’s size is 30G
 ## Codes
 All the codes are based on Python 3.6 and CHTC.  
 * Refer to ```projectCHTC.tar``` for all related codes. 
-* Run ```tar -xzf projectCHTC.tar``` to untar the file
+* Run ```tar xvf projectCHTC.tar``` to untar the file
 * Run ```./projectCHTC/submit.sh``` to perform the analysis.
 
 ## Images
